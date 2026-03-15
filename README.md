@@ -74,6 +74,7 @@ python generate.py --prompt "Hello world" --length 200
 --prompt: Initial text to seed generation
 
 --length: Number of tokens to generate
+---
 
 ##Repository Structure
 File	Description
@@ -84,7 +85,7 @@ CSV_manipulation.py	Data preprocessing scripts
 requirements.txt	Python dependencies
 README.md	Project documentation
 Learning Outcomes
-
+---
 By completing this project, you will:
 
 Gain hands-on experience with Transformers and GPT
