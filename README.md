@@ -75,7 +75,7 @@ python generate.py --prompt "Hello world" --length 200
 
 --length: Number of tokens to generate
 
-Repository Structure
+##Repository Structure
 File	Description
 GPT_model.py	Transformer / GPT architecture
 train.py	Training loop and optimization
