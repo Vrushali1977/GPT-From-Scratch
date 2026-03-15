@@ -76,36 +76,43 @@ python generate.py --prompt "Hello world" --length 200
 --length: Number of tokens to generate
 ---
 
-##Repository Structure
-File	Description
-GPT_model.py	Transformer / GPT architecture
-train.py	Training loop and optimization
-generate.py	Text generation script
-CSV_manipulation.py	Data preprocessing scripts
-requirements.txt	Python dependencies
-README.md	Project documentation
-Learning Outcomes
 ---
+
+## Repository Structure
+
+The repository is organized as follows:
+
+| File                   | Description                          |
+|------------------------|--------------------------------------|
+| GPT_model.py           | Transformer / GPT architecture       |
+| train.py               | Training loop and optimization       |
+| generate.py            | Text generation script               |
+| CSV_manipulation.py    | Data preprocessing scripts           |
+| requirements.txt       | Python dependencies                  |
+| README.md              | Project documentation                |
+---
+
+## Learning Outcomes
+
 By completing this project, you will:
 
-Gain hands-on experience with Transformers and GPT
+- Gain **hands-on experience with Transformers and GPT**.  
+- Understand **attention mechanisms and embeddings**.  
+- Learn **text generation and training process**.  
+- Strengthen skills for **AI/ML engineering roles**.
+---
 
-Understand attention mechanisms and embeddings
+## Credits
 
-Learn text generation and training process
+Inspired by **[Andrej Karpathy](https://github.com/karpathy/ng-video-lecture)**.  
+Original lecture series: [YouTube](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
-Strengthen skills for AI/ML engineering roles
+---
 
-Credits
+## Disclaimer
 
-Inspired by Andrej Karpathy
-.
-Original lecture series: YouTube
-
-Disclaimer
-
-This project is for educational purposes only
-
-No personal data or trained model weights are shared
+- This project is for **educational purposes only**.  
+- No personal data or trained model weights are shared.  
+- Do not use this code for commercial purposes without permission.
 
 Do not use this code for commercial purposes without permission
